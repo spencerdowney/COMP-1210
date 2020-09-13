@@ -1,0 +1,46 @@
+!1513;s
+J
+SAU0JGRASP_MAIN_BOUNDS=%<CONTROL_SHELL_BOUNDS>\012PATH+=%<JGRASP_PATHS>%;\012PATH=+%;%<JGRASP_C_PATHS>\012CYGWIN=nodosfilewarning\012GCC_COLORS=\012-Run\012ADD_EXE_PATH==Y\012
+SCU0JGRASP_MAIN_BOUNDS=%<CONTROL_SHELL_BOUNDS>\012PATH+=%<JGRASP_PATHS>%;\012PATH=+%;%<JGRASP_C_PATHS>\012CYGWIN=nodosfilewarning\012GCC_COLORS=\012-Run\012ADD_EXE_PATH==Y\012
+S+U0JGRASP_MAIN_BOUNDS=%<CONTROL_SHELL_BOUNDS>\012PATH+=%<JGRASP_PATHS>%;\012PATH=+%;%<JGRASP_C_PATHS>\012CYGWIN=nodosfilewarning\012GCC_COLORS=\012-Run\012ADD_EXE_PATH==Y\012
+SJU0JGRASP_MAIN_BOUNDS=%<CONTROL_SHELL_BOUNDS>\012CLASSPATH=+%;%<EXTENSION_CLASSPATHS>\012CLASSPATH+=%<JGRASP_CLASSPATHS>%;\012File\012CLASSPATH+=.%;\012CLASSPATH+=%<SRC_CLASSPATHS>%;\012ProjectOrFile\012PATH+=%<JAVA_BIN_DIR>%;\012PATH+=%<JGRASP_PATHS>%;\012Debug +Debug_Applet\012CLASSPATH=+%;%<INJECTION_CLASSPATHS>\012Compile\012NOT_FOUND_MESSAGE==Make sure you have the full JDK, not just the JRE, installed.\\nThe JDK is available from http://www.oracle.com/technetwork/java/index.html.\012Run_Applet +Debug_Applet\012ADD_APPLETVIEWER_CLASSPATH==Y\012Document\012CLASSPATH=+%;%<TOOL_CLASSPATHS>\012CLASSPATH+=%<CLASSES_DIR>%;\012
+SXU0
+SOU0JGRASP_MAIN_BOUNDS=%<CONTROL_SHELL_BOUNDS>\012PATH+=%<JGRASP_PATHS>%;\012PATH=+%;%<JGRASP_C_PATHS>\012CYGWIN=nodosfilewarning\012GCC_COLORS=\012-Run\012ADD_EXE_PATH==Y\012
+SyU0JGRASP_MAIN_BOUNDS=%<CONTROL_SHELL_BOUNDS>\012PATH+=%<PYTHON_PATH>%;\012PATH+=%<JGRASP_PATHS>%;\012CYGWIN=nodosfilewarning\012GCC_COLORS=
+SPU0
+s#i0
+s#k0
+s#j0
+s#l0
+!200;g
+%\011NegativeValueException.java
+%\011BunnyList.java
+%\011JumpingBunny.java
+%\011BunniesPart3.java
+%\011HouseBunny.java
+%\011Bunny.java
+%\011CostComparator.java
+%\011PetBunny.java
+%\011ShowBunny.java
+!200;f
+%\011NegativeValueException.java
+%\011BunnyList.java
+%\011JumpingBunny.java
+%\011BunniesPart3.java
+%\011HouseBunny.java
+%\011Bunny.java
+%\011CostComparator.java
+%\011PetBunny.java
+%\011ShowBunny.java
+!216;l
+%\011BunnyListTest.java
+%\011HouseBunnyTest.java
+%\011NegativeValueExceptionTest.java
+%\011ShowBunnyTest.java
+%\011PetBunnyTest.java
+%\011JumpingBunnyTest.java
+%\011CostComparatorTest.java
+%\011BunniesPart3Test.java
+!1759;t
+jgrJUnit0xr	%\011NegativeValueException.java	1524771904645:P%\011NegativeValueExceptionTest.java	%\011HouseBunnyTest.java	1524771904645:P%\011HouseBunny.java	%\011ShowBunnyTest.java	1524771904645:P%\011ShowBunny.java	%\011PetBunnyTest.java	1524771904645:P%\011PetBunny.java	%\011CostComparator.java	1524771904645:P%\011CostComparatorTest.java	%\011JumpingBunnyTest.java	1524771904645:P%\011JumpingBunny.java	%\011CostComparatorTest.java	1524771904645:P%\011CostComparator.java	%\011PetBunny.java	1524771904645:P%\011PetBunnyTest.java	%\011BunnyListTest.java	1524771904645:P%\011BunnyList.java	%\011NegativeValueExceptionTest.java	1524771904645:P%\011NegativeValueException.java	%\011BunnyList.java	1524771904645:P%\011BunnyListTest.java	%\011JumpingBunny.java	1524771904645:P%\011JumpingBunnyTest.java	%\011BunniesPart3.java	1524772299752:P%\011BunniesPart3Test.java	%\011HouseBunny.java	1524771904645:P%\011HouseBunnyTest.java	%\011BunniesPart3Test.java	1524772299752:P%\011BunniesPart3.java	%\011ShowBunny.java	1524771904645:P%\011ShowBunnyTest.java	
+jgrCheckstyle0xr	%\011NegativeValueException.java	1524771880657:P	%\011HouseBunnyTest.java	1524771880657:P	%\011ShowBunnyTest.java	1524771880657:P	%\011PetBunnyTest.java	1524771880657:P	%\011JumpingBunnyTest.java	1524771880657:P	%\011CostComparator.java	1524771880657:P	%\011CostComparatorTest.java	1524771880657:P	%\011PetBunny.java	1524771880657:P	%\011BunnyListTest.java	1524771880657:P	%\011NegativeValueExceptionTest.java	1524771880657:P	%\011BunnyList.java	1524771890783:P	%\011JumpingBunny.java	1524771880657:P	%\011BunniesPart3.java	1524771880657:P	%\011HouseBunny.java	1524771880657:P	%\011Bunny.java	1524771880657:P	%\011BunniesPart3Test.java	1524771880657:P	%\011ShowBunny.java	1524771880657:P	
